@@ -10,13 +10,13 @@
 
 # Open Source Activities
 
-- [Visual Studio Code](https://github.com/microsoft/vscode) from [@microsoft](https://github.com/microsoft)
+- [Visual Studio Code](https://github.com/microsoft/vscode) from ![microsoft](https://avatars.githubusercontent.com/u/6154722?s=18&v=4) [@microsoft](https://github.com/microsoft) 
   - PRs:
     - [PR#297294](https://github.com/microsoft/vscode/pull/297294) fix(search): missing preserve existing exclude patterns
   - Issues:
     - [Issue#297232](https://github.com/microsoft/vscode/issues/297232) search: exclude file type is lost when adding an exclude folder
 
-- [Ant Design](https://github.com/ant-design/ant-design) from [@ant-design](https://github.com/ant-design)
+- [Ant Design](https://github.com/ant-design/ant-design) from ![ant-design](https://avatars.githubusercontent.com/u/12101536?s=20&v=4) [@ant-design](https://github.com/ant-design)
   - PRs:
     - [PR#54738](https://github.com/ant-design/ant-design/pull/54738) fix(button): button href disabled accessibility not correct
     - [PR#54644](https://github.com/ant-design/ant-design/pull/54644) fix(date-picker): missing Vietnam translation
