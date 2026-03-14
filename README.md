@@ -23,7 +23,7 @@
     - [PR#54187](https://github.com/ant-design/ant-design/pull/54187) fix(avatar): do not apply font size token
     - [PR#53953](https://github.com/ant-design/ant-design/pull/53953) style(checkbox): avoid !important syntax in styles
   - Issues:
-    - [Issue#54557](https://github.com/ant-design/ant-design/issues/54557) support size prop for Radio component when using RadioOptionType via options prop
+    - [Issue#54558](https://github.com/ant-design/ant-design/issues/54558) support size prop for Radio component when using RadioOptionType via options prop
 
 # Contact
 - LinkedIn: [@doandevhere](https://www.linkedin.com/in/doandevhere)
